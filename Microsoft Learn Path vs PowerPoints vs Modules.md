@@ -8,7 +8,7 @@ Module 2: Describe identity concepts. <br>
 ## Learning Path 2:  Describe the capabilities of Azure Active Directory (Azure AD), part of Microsoft Entra - https://learn.microsoft.com/en-us/training/paths/describe-capabilities-of-microsoft-identity-access/
 
 Module 1: Describe the basic services and identity types of Azure AD. <br>
-Module 2: Describe the authentication capabilities of Azure AD.
+Module 2: Describe the authentication capabilities of Azure AD. <br>
 Module 3: Describe the access management capabilities of Azure AD. <br>
 Module 4: Describe the identity protection and governance capabilities of Azure AD. <br>
 
