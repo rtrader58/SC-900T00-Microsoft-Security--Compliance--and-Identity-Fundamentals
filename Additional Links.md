@@ -1,4 +1,4 @@
-# SC-900T00-Microsoft-Security-Operations-Anayst - Additional links<br>
+# SC-900T00 - Security, Compliance and Identity Fundamentals - Additional links
 
 Interface Technical Training - http://www.interfacett.com<br>
 Lab environment - https://interfacett.learnondemand.net<br>
