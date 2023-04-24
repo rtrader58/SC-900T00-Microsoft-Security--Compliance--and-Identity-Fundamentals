@@ -3,7 +3,7 @@
 Interface Technical Training - http://www.interfacett.com<br>
 Lab environment - https://interfacett.learnondemand.net<br>
 Github lab repository - https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/tree/master/Instructions<br>
-Microsoft Certified: Cybersecurity Architect Expert - https://learn.microsoft.com/en-us/certifications/cybersecurity-architect-expert/<br?>
+Microsoft Certified: Cybersecurity Architect Expert - https://learn.microsoft.com/en-us/certifications/cybersecurity-architect-expert/<br>
 SC-900 Exam Objectives - https://learn.microsoft.com/en-us/certifications/exams/sc-900/<br>
 SC-900 Exam study guide - https://learn.microsoft.com/en-us/certifications/resources/study-guides/sc-900<br>
 Interface Technical Training Exam Promo - https://www.interfacett.com/microsoft-certification-exams/<br>
