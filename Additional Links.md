@@ -2,10 +2,10 @@
 
 Interface Technical Training - http://www.interfacett.com<br>
 Lab environment - https://interfacett.learnondemand.net<br>
-Github lab repository - https://github.com/MicrosoftLearning/SC-200T00A-Microsoft-Security-Operations-Analyst<br>
+Github lab repository - https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/tree/master/Instructions<br>
 Microsoft Certified: Cybersecurity Architect Expert - https://learn.microsoft.com/en-us/certifications/cybersecurity-architect-expert/<br?>
-SC-200 Exam Objectives - https://learn.microsoft.com/en-us/certifications/exams/sc-200<br>
-SC-200 Exam study guide - https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp3<br>
+SC-900 Exam Objectives - https://learn.microsoft.com/en-us/certifications/exams/sc-900/<br>
+SC-900 Exam study guide - https://learn.microsoft.com/en-us/certifications/resources/study-guides/sc-900<br>
 Interface Technical Training Exam Promo - https://www.interfacett.com/microsoft-certification-exams/<br>
 Microsoft Azure Blog - https://azure.microsoft.com/en-us/blog/<br>
 Azure Forums - https://social.msdn.microsoft.com/Forums/en-US/home?category=windowsazureplatform<br>
